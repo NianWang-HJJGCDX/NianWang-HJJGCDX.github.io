@@ -94,7 +94,7 @@ CCF A类会议
     color: white; 
     padding: 2px 6px; 
     border-radius: 3px; 
-    ">
+    font-weight: bold;">
 中科院1区 JCR1区
 </span>   <a href="https://bgithub.xyz/NianWang-HJJGCDX/PBD" style="color: #EA700D; font-weight: bold;">Code here</a> 
 -   Multi-view Clustering Based on Doubly Stochastic Graph, Nian Wang, Zhigao Cui, Aihua Li, Rong Wang and Feiping Nie, **Signal Processing**. <br>
@@ -120,7 +120,7 @@ Yanzhao Su, Aihua Li, **Remote Sensing**. <span style="
     color: white; 
     padding: 2px 6px; 
     border-radius: 3px; 
-    ">
+    font-weight: bold;">
 中科院2区 JCR1区
 </span>  <a href="https://bgithub.xyz/NianWang-HJJGCDX/MCDLT" style="color: #EA700D; font-weight: bold;">Code here</a>  
 -  Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Chang Liu, Jialun Peng, Nian Wang, Xin Luo, Dong Liu,  **AAAI 2025**. <span style="
@@ -128,7 +128,7 @@ Yanzhao Su, Aihua Li, **Remote Sensing**. <span style="
     color: white; 
     padding: 2px 6px; 
     border-radius: 3px; 
-   ">
+   font-weight: bold;">
 CCF A类会议
 </span>  <a href="https://bgithub.xyz/ywxjm/Diff-Dehazer" style="color: #EA700D; font-weight: bold;">Code here</a>  
 -  Real Scene Single Image Dehazing Network with Multi-Prior Guidance and Domain Transfer, Yanzhao Su, Nian Wang, Zhigao Cui, Yanping Cai, Chuan He, Aihua Li,  **IEEE Transactions on Multimedia**. <span style="
@@ -136,7 +136,7 @@ CCF A类会议
     color: white; 
     padding: 2px 6px; 
     border-radius: 3px; 
-    ">
+    font-weight: bold;">
 中科院1区 JCR1区
 </span> <a href="https://bgithub.xyz/NianWang-HJJGCDX/DNMGDT" style="color: #EA700D; font-weight: bold;">Code here</a>  
 -  Structured Doubly Stochastic Graph-Based Clustering, Nian Wang, Zhigao Cui, Aihua Li, Yihang Lu, Rong Wang and Feiping Nie,  **IEEE Transactions on Neural Networks and Learning Systems**. <span style="
@@ -144,7 +144,7 @@ CCF A类会议
     color: white; 
     padding: 2px 6px; 
     border-radius: 3px; 
-    ">
+    font-weight: bold;">
 中科院1区 JCR1区
 </span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文</span>    <a href="https://bgithub.xyz/NianWang-HJJGCDX/SDSGC" style="color: #EA700D; font-weight: bold;">Code here</a>  
  
@@ -154,7 +154,7 @@ CCF A类会议
     color: white; 
     padding: 2px 6px; 
     border-radius: 3px; 
-    ">
+    font-weight: bold;">
 中科院2区 JCR1区
 </span>  <a href="https://bgithub.xyz/NianWang-HJJGCDX/CAN" style="color: #EA700D; font-weight: bold;">Code here</a>  
 - Handling occlusion in uav visual tracking with query-guided redetection, Yuanliang Xue, Tao Shen, Guodong Jin, Lining Tan, Nian Wang, Lianfeng Wang, Jing Gao, **IEEE Transactions on Instrumentation and Measurement**. <span style="
@@ -162,7 +162,7 @@ CCF A类会议
     color: white; 
     padding: 2px 6px; 
     border-radius: 3px; 
-    ">
+    font-weight: bold;">
 中科院2区 JCR1区
 </span> <a href="https://bgithub.xyz/xyl-507/QRDT" style="color: #EA700D; font-weight: bold;">Code here</a> 
 - Consistent Representation Mining for Multi-Drone Single Object Tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Circuits and Systems for Video Technology**. <span style="
@@ -170,7 +170,7 @@ CCF A类会议
     color: white; 
     padding: 2px 6px; 
     border-radius: 3px; 
-    ">
+    font-weight: bold;">
 中科院1区 JCR1区
 </span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文</span>  <a href="https://bgithub.xyz/xyl-507/CRM" style="color: #EA700D; font-weight: bold;">Code here</a> 
 
@@ -180,14 +180,14 @@ CCF A类会议
     color: white; 
     padding: 2px 6px; 
     border-radius: 3px; 
-    ">
+    font-weight: bold;">
 中科院1区 JCR1区
 </span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文</span> <a href="https://bgithub.xyz/xyl-507/SmallTrack" style="color: #EA700D; font-weight: bold;">Code here</a> 
 - Physical model and image translation fused network for single-image dehazing, Yan Zhao Su, Chuan He, Zhi Gao Cui, Ai Hua Li, Nian Wang, **Pattern Recognition**. <span style="
     background-color: #007bff; 
     color: white; 
     padding: 2px 6px; 
-    border-radius: 3px; ">
+    border-radius: 3px; font-weight: bold;">
 中科院1区 JCR1区
 </span>  <a href="https://bgithub.xyz/syzlhh/PMITFN" style="color: #EA700D; font-weight: bold;">Code here</a>
 
