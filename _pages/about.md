@@ -11,7 +11,7 @@ redirect_from:
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% assign gsDataBaseUrl = "https://raw.bgithub.xyz/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
@@ -23,7 +23,7 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
-- *2022.12* excellent master dissertation from the China Ordnance Industry Society. 
+- *2022.12* excellent master dissertation from the China Ordnance Industry Society.  
 
 # 📖 Educations
 - *2022.03 - now,  Doctor, Computer Science,   Xi’an Research Institute of High-tech, Xi'an, Shaanxi, China. 
