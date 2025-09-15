@@ -105,7 +105,7 @@ CCF A类会议
     border-radius: 3px; 
     font-weight: bold;">
 中科院2区 JCR1区
-</span> <a href="https://github.xyz/NianWang-HJJGCDX/MCDSG" style="color: #00B050; font-weight: bold;">Code here</a> 
+</span> <a href="https://bgithub.xyz/NianWang-HJJGCDX/MCDSG" style="color: #00B050; font-weight: bold;">Code here</a> 
 -   Large-Scale Hyperspectral Image-Projected Clustering via Doubly Stochastic Graph Learning, Nian Wang, Zhigao Cui, Yunwei Lan, Cong Zhang, Yuanliang Xue, 
 Yanzhao Su, Aihua Li, **Remote Sensing**. <span style="
     background-color: #007bff; 
@@ -114,7 +114,7 @@ Yanzhao Su, Aihua Li, **Remote Sensing**. <span style="
     border-radius: 3px; 
     font-weight: bold;">
 中科院2区 JCR1区
-</span> <a href="https://github.com/NianWang-HJJGCDX/HPCDL" style="color: #00B050; font-weight: bold;">Code here</a>   
+</span> <a href="https://bgithub.xyz/NianWang-HJJGCDX/HPCDL" style="color: #00B050; font-weight: bold;">Code here</a>   
 -   Multi-order Graph based Clustering Via Dynamical Low Rank Tensor Approximation, Nian Wang, Zhigao Cui, Aihua Li, Yuanliang Xue, Rong Wang, Feiping Nie,   **Neurocomputing**. <span style="
     background-color: #007bff; 
     color: white; 
@@ -122,7 +122,7 @@ Yanzhao Su, Aihua Li, **Remote Sensing**. <span style="
     border-radius: 3px; 
     ">
 中科院2区 JCR1区
-</span>  <a href="https://github.com/NianWang-HJJGCDX/MCDLT" style="color: #00B050; font-weight: bold;">Code here</a>  
+</span>  <a href="https://bgithub.xyz/NianWang-HJJGCDX/MCDLT" style="color: #00B050; font-weight: bold;">Code here</a>  
 -  Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Chang Liu, Jialun Peng, Nian Wang, Xin Luo, Dong Liu,  **AAAI 2025**. <span style="
     background-color: #007bff; 
     color: white; 
@@ -130,7 +130,7 @@ Yanzhao Su, Aihua Li, **Remote Sensing**. <span style="
     border-radius: 3px; 
    ">
 CCF A类会议
-</span> </span> <a href="https://github.com/ywxjm/Diff-Dehazer" style="color: #00B050; font-weight: bold;">Code here</a>  
+</span>  <a href="https://bgithub.xyz/ywxjm/Diff-Dehazer" style="color: #00B050; font-weight: bold;">Code here</a>  
 -  Real Scene Single Image Dehazing Network with Multi-Prior Guidance and Domain Transfer, Yanzhao Su, Nian Wang, Zhigao Cui, Yanping Cai, Chuan He, Aihua Li,  **IEEE Transactions on Multimedia**. <span style="
     background-color: #007bff; 
     color: white; 
@@ -138,7 +138,7 @@ CCF A类会议
     border-radius: 3px; 
     ">
 中科院1区 JCR1区
-</span> <a href="https://github.com/NianWang-HJJGCDX/DNMGDT" style="color: #00B050; font-weight: bold;">Code here</a>  
+</span> <a href="https://bgithub.xyz/NianWang-HJJGCDX/DNMGDT" style="color: #00B050; font-weight: bold;">Code here</a>  
 -  Structured Doubly Stochastic Graph-Based Clustering, Nian Wang, Zhigao Cui, Aihua Li, Yihang Lu, Rong Wang and Feiping Nie,  **IEEE Transactions on Neural Networks and Learning Systems**. <span style="
     background-color: #007bff; 
     color: white; 
@@ -146,7 +146,7 @@ CCF A类会议
     border-radius: 3px; 
     ">
 中科院1区 JCR1区
-</span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文</span>  </span>  <a href="https://github.com/NianWang-HJJGCDX/SDSGC" style="color: #00B050; font-weight: bold;">Code here</a>  
+</span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文</span>    <a href="https://bgithub.xyz/NianWang-HJJGCDX/SDSGC" style="color: #00B050; font-weight: bold;">Code here</a>  
  
 ## 2024
 - Capsule Attention Network for Hyperspectral Image Classification, Nian Wang, Aitao Yang, Zhigao Cui, Yao Ding, Yuanliang Xue, Yanzhao Su, **Remote Sensing**. <span style="
@@ -156,7 +156,7 @@ CCF A类会议
     border-radius: 3px; 
     ">
 中科院2区 JCR1区
-</span>  <a href="https://github.com/NianWang-HJJGCDX/CAN" style="color: #00B050; font-weight: bold;">Code here</a>  
+</span>  <a href="https://bgithub.xyz/NianWang-HJJGCDX/CAN" style="color: #00B050; font-weight: bold;">Code here</a>  
 - Handling occlusion in uav visual tracking with query-guided redetection, Yuanliang Xue, Tao Shen, Guodong Jin, Lining Tan, Nian Wang, Lianfeng Wang, Jing Gao, **IEEE Transactions on Instrumentation and Measurement**. <span style="
     background-color: #007bff; 
     color: white; 
@@ -164,7 +164,7 @@ CCF A类会议
     border-radius: 3px; 
     ">
 中科院2区 JCR1区
-</span> <a href="https://github.com/xyl-507/QRDT" style="color: #00B050; font-weight: bold;">Code here</a> 
+</span> <a href="https://bgithub.xyz/xyl-507/QRDT" style="color: #00B050; font-weight: bold;">Code here</a> 
 - Consistent Representation Mining for Multi-Drone Single Object Tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Circuits and Systems for Video Technology**. <span style="
     background-color: #007bff; 
     color: white; 
@@ -172,7 +172,7 @@ CCF A类会议
     border-radius: 3px; 
     ">
 中科院1区 JCR1区
-</span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文</span> </span> <a href="https://github.com/xyl-507/CRM" style="color: #00B050; font-weight: bold;">Code here</a> 
+</span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文</span>  <a href="https://bgithub.xyz/xyl-507/CRM" style="color: #00B050; font-weight: bold;">Code here</a> 
 
 ## 2023
 - Smalltrack: Wavelet pooling and graph enhanced classification for uav small object tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Geoscience and Remote Sensing**. <span style="
