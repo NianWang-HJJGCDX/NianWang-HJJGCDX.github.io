@@ -26,7 +26,7 @@
 
 [Code](https://github.com/wangsiwei2010/FPMVS-CAG) 
 
-**Siwei Wang**, Xinwang Liu, Xinzhong Zhu, Pei Zhang, Yi Zhang, Feng Gao, En Zhu (ESI High Cited Paper) 
+**Siwei Wang**, Xinwang Liu, Xinzhong Zhu, Pei Zhang, Yi Zhang, Feng Gao, En Zhu (ESI High Cited Paper)  
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - a unified multi-view co-training style of anchors. 
