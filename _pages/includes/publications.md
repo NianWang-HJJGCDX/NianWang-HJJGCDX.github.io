@@ -70,7 +70,7 @@
   </div>
 <span style="background-color:#FFC0CB; padding: 2px 4px; border-radius: 3px;">SDM</span>, <span style="color:#FF5733;">中科院JCR</span>, 
 
-- [Physical model and image translation fused network for single-image dehazing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:pqnbT2bcN3wC), Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, En Zhu, **AAAI 2024**
+- [Physical model and image translation fused network for single-image dehazing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5o9hK3EAAAAJ&sortby=pubdate&citation_for_view=5o9hK3EAAAAJ:pqnbT2bcN3wC), Shengju Yu, Siwei Wang, Zhibin Dong, Wenxuan Tu, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, En Zhu, **AAAI 2024**  with  <a href='https://scholar.google.com/citations?user=i2Ots7kAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FNianWang-HJJGCDX%2FNianWang-HJJGCDX.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 -->
 ## 2025
 -   Target-Distractor Aware UAV Tracking via Global Agent, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Intelligent Transportation Systems**. <span style="
