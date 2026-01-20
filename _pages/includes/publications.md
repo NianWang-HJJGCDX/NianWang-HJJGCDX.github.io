@@ -3,7 +3,7 @@
 ## Selected Publications 
 
 ### Multi-view Late Fusion Alignment
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2019</div><img src='images/ijcai.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2019</div><img src='/NianWang-HJJGCDX/NianWang-HJJGCDX.github.io/edit/main/_pages/includes/images/ijcai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-view Clustering via Late Fusion Alignment Maximization](https://www.ijcai.org/Proceedings/2019/0524.pdf) <a href='https://scholar.google.com/citations?user=5o9hK3EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwangsiwei2010%2Fwangsiwei2010.github.io@google-scholar-stats%2Fgs_data_shieldsio_paper4.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -19,7 +19,7 @@
 
 
 ### Large-scale Anchor Representation
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP2022</div><img src='images/tip.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP2022</div><img src='/NianWang-HJJGCDX/NianWang-HJJGCDX.github.io/edit/main/_pages/includes/images/tip.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fast Parameter-Free Multi-View Subspace Clustering With Consensus Anchor Guidance](https://www.researchgate.net/publication/356634317_Fast_Parameter-Free_Multi-View_Subspace_Clustering_With_Consensus_Anchor_Guidance) <a href='https://scholar.google.com/citations?user=5o9hK3EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwangsiwei2010%2Fwangsiwei2010.github.io@google-scholar-stats%2Fgs_data_shieldsio_paper1.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -35,7 +35,7 @@
 
 
 ### Large-scale Anchor Alignment
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/neurips.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='/NianWang-HJJGCDX/NianWang-HJJGCDX.github.io/edit/main/_pages/includes/images/neurips.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences](https://proceedings.neurips.cc/paper_files/paper/2022/file/270339c997293ca2988c62f4308e389f-Paper-Conference.pdf) <a href='https://scholar.google.com/citations?user=5o9hK3EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwangsiwei2010%2Fwangsiwei2010.github.io@google-scholar-stats%2Fgs_data_shieldsio_paper2.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -50,7 +50,7 @@
 </div>
 
 ### Large-scale Anchor for Incomplete Scenerios 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='/NianWang-HJJGCDX/NianWang-HJJGCDX.github.io/edit/main/_pages/includes/images/cvpr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Highly-Efficient_Incomplete_Large-Scale_Multi-View_Clustering_With_Consensus_Bipartite_Graph_CVPR_2022_paper.pdf) <a href='https://scholar.google.com/citations?user=5o9hK3EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwangsiwei2010%2Fwangsiwei2010.github.io@google-scholar-stats%2Fgs_data_shieldsio_paper3.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -149,14 +149,6 @@ CCF A类会议
 </span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文</span>    <a href="https://bgithub.xyz/NianWang-HJJGCDX/SDSGC" style="color: #EA700D; font-weight: bold;">Code here</a>  
  
 ## 2024
-- Capsule Attention Network for Hyperspectral Image Classification, Nian Wang, Aitao Yang, Zhigao Cui, Yao Ding, Yuanliang Xue, Yanzhao Su, **Remote Sensing**. <span style="
-    background-color: #007bff; 
-    color: white; 
-    padding: 2px 6px; 
-    border-radius: 3px; 
-    font-weight: bold;">
-中科院2区 JCR1区
-</span>  <a href="https://bgithub.xyz/NianWang-HJJGCDX/CAN" style="color: #EA700D; font-weight: bold;">Code here</a>  
 - Handling occlusion in uav visual tracking with query-guided redetection, Yuanliang Xue, Tao Shen, Guodong Jin, Lining Tan, Nian Wang, Lianfeng Wang, Jing Gao, **IEEE Transactions on Instrumentation and Measurement**. <span style="
     background-color: #007bff; 
     color: white; 
