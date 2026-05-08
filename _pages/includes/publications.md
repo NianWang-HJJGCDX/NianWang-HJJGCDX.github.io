@@ -133,7 +133,7 @@ Yanzhao Su, Aihua Li, **Remote Sensing**. <span style="
     padding: 2px 6px; 
     border-radius: 3px; 
     font-weight: bold;">
-中科院2区 JCR1区 🏆 ESI 高被引论文
+中科院2区 JCR1区 </span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文
 </span> <a href="https://bgithub.xyz/NianWang-HJJGCDX/HPCDL" style="color: #EA700D; font-weight: bold;">Code here</a>   
 -   Multi-order Graph based Clustering Via Dynamical Low Rank Tensor Approximation, Nian Wang, Zhigao Cui, Aihua Li, Yuanliang Xue, Rong Wang, Feiping Nie,   **Neurocomputing**.  <span style="
     background-color: #007bff; 
@@ -141,7 +141,7 @@ Yanzhao Su, Aihua Li, **Remote Sensing**. <span style="
     padding: 2px 6px; 
     border-radius: 3px; 
     font-weight: bold;">
-中科院2区 JCR1区 🏆 ESI 高被引论文
+中科院2区 JCR1区 </span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文
 </span>  <a href="https://bgithub.xyz/NianWang-HJJGCDX/MCDLT" style="color: #EA700D; font-weight: bold;">Code here</a>  
 -  Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Chang Liu, Jialun Peng, Nian Wang, Xin Luo, Dong Liu,  **AAAI 2025**. <span style="
     background-color: #007bff; 
@@ -157,8 +157,8 @@ CCF A类会议
     padding: 2px 6px; 
     border-radius: 3px; 
     font-weight: bold;">
-中科院1区 JCR1区 🏆 ESI 高被引论文
-</span> <a href="https://bgithub.xyz/NianWang-HJJGCDX/DNMGDT" style="color: #EA700D; font-weight: bold;">Code here</a>  
+中科院1区 JCR1区 
+</span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文</span> <a href="https://bgithub.xyz/NianWang-HJJGCDX/DNMGDT" style="color: #EA700D; font-weight: bold;">Code here</a>  
 -  Structured Doubly Stochastic Graph-Based Clustering, Nian Wang, Zhigao Cui, Aihua Li, Yihang Lu, Rong Wang and Feiping Nie,  **IEEE Transactions on Neural Networks and Learning Systems**. <span style="
     background-color: #007bff; 
     color: white; 
@@ -175,7 +175,7 @@ CCF A类会议
     padding: 2px 6px; 
     border-radius: 3px; 
     font-weight: bold;">
-中科院2区 JCR1区 🏆 ESI 高被引论文
+中科院2区 JCR1区 </span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文</span>
 </span> <a href="https://bgithub.xyz/xyl-507/QRDT" style="color: #EA700D; font-weight: bold;">Code here</a> 
 - Consistent Representation Mining for Multi-Drone Single Object Tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Circuits and Systems for Video Technology**. <span style="
     background-color: #007bff; 
