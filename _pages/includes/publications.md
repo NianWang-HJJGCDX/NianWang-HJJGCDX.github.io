@@ -80,7 +80,8 @@
     padding: 2px 6px; 
     border-radius: 3px; 
     font-weight: bold;">
-中科院1区 JCR1区</span> <a href="https://github.com/NianWang-HJJGCDX/DCDS" style="color: #EA700D; font-weight: bold;">Code here</a>  
+中科院1区 JCR1区</span> <a href="https://github.com/NianWang-HJJGCDX/DCDS" style="color: #EA700D; font-weight: bold;">Code here</a>
+
 ## 2025
 -   Target-Distractor Aware UAV Tracking via Global Agent, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Intelligent Transportation Systems**. <span style="
     background-color: #007bff; 
