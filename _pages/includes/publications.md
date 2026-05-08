@@ -99,7 +99,7 @@ and supercluster similarity minimization,  Nian Wang Zhigao Cui*
     border-radius: 3px; 
     font-weight: bold;">
 中科院2区 JCR1区
-</span> <a href=" https://github.com/NianWang-HJJGCDX/HISSM" style="color: #EA700D; font-weight: bold;">Code here</a>
+</span> <a href="https://github.com/NianWang-HJJGCDX/HISSM" style="color: #EA700D; font-weight: bold;">Code here</a>
 -   When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training, Yunwei Lan, Zhigao Cui, Xin Luo, Chang Liu, Nian Wang, Menglin Zhang, Yanzhao Su, Dong Liu, **ICCV 2025**. <span style="
     background-color: #007bff; 
     color: white; 
