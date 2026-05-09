@@ -90,7 +90,7 @@
     padding: 2px 6px; 
     border-radius: 3px; 
     font-weight: bold;">
-中科院1区 JCR1区 </span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文</span> </span> <a href="https://bgithub.xyz/xyl-507/TDAT" style="color: #EA700D; font-weight: bold;">Code here</a>
+中科院1区 JCR1区 </span> <span style="color: #FF0000; font-weight: bold;   font-family: Arial, sans-serif;">🏆 ESI 高被引论文</span> <a href="https://bgithub.xyz/xyl-507/TDAT" style="color: #EA700D; font-weight: bold;">Code here</a>
 -   Discrete multi-view graph-based clustering via hierarchical initialization
 and supercluster similarity minimization,  Nian Wang Zhigao Cui*
 , Cong Zhang, Yunwei Lan, Yuanliang Xue, Yanzhao Su, Aihua Li, **Neurocomputing**. <span style="
@@ -175,7 +175,7 @@ CCF A类会议
     padding: 2px 6px; 
     border-radius: 3px; 
     font-weight: bold;">
-中科院2区 JCR1区
+中科院2区 JCR1区 </span> 
  <a href="https://bgithub.xyz/xyl-507/QRDT" style="color: #EA700D; font-weight: bold;">Code here</a> 
 - Consistent Representation Mining for Multi-Drone Single Object Tracking, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang, **IEEE Transactions on Circuits and Systems for Video Technology**. <span style="
     background-color: #007bff; 
